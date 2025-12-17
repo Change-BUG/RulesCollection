@@ -1,2 +1,0 @@
-www.123pan.com##.backgroundImage { background: none !important; }
-www.123pan.com##.backgroundImage { display: none !important; }
