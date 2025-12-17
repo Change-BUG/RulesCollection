@@ -4,11 +4,11 @@
 
 - 直连域名列表 classical
 
-https://cdn.jsdelivr.net/gh/Change-BUG/RulesCollection@1.0.0/clash-direct.yaml
+https://cdn.jsdelivr.net/gh/Change-BUG/RulesCollection@main/clash-direct.yaml
 
 - 代理域名列表 classical
 
-https://cdn.jsdelivr.net/gh/Change-BUG/RulesCollection@1.0.0/clash-proxy.yaml
+https://cdn.jsdelivr.net/gh/Change-BUG/RulesCollection@main/clash-proxy.yaml
 
 - 广告域名列表 domain
 
