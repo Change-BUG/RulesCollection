@@ -3,9 +3,10 @@ payload:
   - DOMAIN-SUFFIX,greasyfork.org
 
   # discord
-  - DOMAIN-SUFFIX,discordapp.com
-  - DOMAIN-SUFFIX,discordapp.gg
-  - DOMAIN-SUFFIX,discord.com
+  - DOMAIN-KEYWORD,discord
+  # - DOMAIN-SUFFIX,discordapp.com
+  # - DOMAIN-SUFFIX,discordapp.gg
+  # - DOMAIN-SUFFIX,discord.com
 
   # google
   - DOMAIN-SUFFIX,google.com
@@ -20,8 +21,8 @@ payload:
   - DOMAIN-SUFFIX,cursor.sh
   
   # 技术
-  - DOMAIN-SUFFIX,github.com
-  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,reddit
 
   # 壁纸
   - DOMAIN-SUFFIX,wallhaven.cc
