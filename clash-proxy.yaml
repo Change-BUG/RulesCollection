@@ -1,6 +1,16 @@
 payload:
+  # 浏览器脚本
+  - DOMAIN-SUFFIX,greasyfork.org
+
+  # discord
+  - DOMAIN-SUFFIX,discordapp.com
+  - DOMAIN-SUFFIX,discordapp.gg
+  - DOMAIN-SUFFIX,discord.com
+
+  # google
   - DOMAIN-SUFFIX,google.com
-    # AI
+  
+  # AI
   - DOMAIN-SUFFIX,anyrouter.top
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,pom.com
@@ -8,5 +18,11 @@ payload:
   - DOMAIN-SUFFIX,trae.ai
   - DOMAIN-SUFFIX,cursor.com
   - DOMAIN-SUFFIX,cursor.sh
-    # 技术
-    DOMAIN-SUFFIX,github.com
+  
+  # 技术
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,reddit.com
+
+  # 壁纸
+  - DOMAIN-SUFFIX,wallhaven.cc
+  - DOMAIN-SUFFIX,wallspic.com
