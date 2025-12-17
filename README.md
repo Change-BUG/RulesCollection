@@ -1,2 +1,1 @@
-# clash_rules
-clash rules
+# 自用规则 | Personal use rules
