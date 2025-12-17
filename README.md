@@ -10,3 +10,13 @@ https://cdn.jsdelivr.net/gh/Change-BUG/RulesCollection@1.0.0/clash-direct.yaml
 
 https://cdn.jsdelivr.net/gh/Change-BUG/RulesCollection@1.0.0/clash-proxy.yaml
 
+- 广告域名列表
+
+https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt
+
+
+
+
+
+
+
