@@ -10,8 +10,15 @@ payload:
 
   # google
   - DOMAIN-SUFFIX,google.com
+
+  # dcoker
+  - DOMAIN-KEYWORD,docker
+  - DOMAIN-SUFFIX,docker.nju.edu.cn
   
   # AI
+  - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,anyrouter.top
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,pom.com
@@ -23,7 +30,30 @@ payload:
   # 技术
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,reddit
+  - DOMAIN-SUFFIX,linux.do
 
   # 壁纸
   - DOMAIN-SUFFIX,wallhaven.cc
   - DOMAIN-SUFFIX,wallspic.com
+
+  # steam
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steamgames.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
